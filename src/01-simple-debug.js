@@ -1,6 +1,6 @@
-console.log('Simple debugging example running.')
 debugger
 
-let x = 99
+const name = playerWithLongestName(); // Brendan Haywood
+const doesHaywoodStealALot = doesLongNameStealATon();
+
 debugger
-console.log(x)
